@@ -1,5 +1,3 @@
-# auto-deploy
-
 
 ## Project Structure
 
